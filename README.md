@@ -1,8 +1,4 @@
-Below is a **GitHub-ready `README.md`**. You can copy-paste it directly into your repository. It includes structure, setup, and contribution sections without overengineering.
-
----
-
-# Student Management & Tracking App
+## Class-A (Student Management app)
 
 A teacher-centric application for managing classroom data, including student attendance, payments, notes, and controlled information sharing with parents.
 
